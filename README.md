@@ -26,9 +26,10 @@ python PentestPlus.py  <target_url>
 ```
 ls
 ```
-##**Write##**
+# __Write__
+
 ```nano scan_log_20241121_215216.txt```
 
-- or
+#####  or
   
 ``` nano scan_log_20241121_215216.json```
