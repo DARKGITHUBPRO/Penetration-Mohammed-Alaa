@@ -5,15 +5,20 @@ A tool that hacks applications perfectly and separately, with the addition of sa
 
 **__Developed by / Muhammad Alaa Muhammad__**
 ***
-### Installation Tool :
+### 1. Installation Tool :
 ```bash
 git clone https://github.com/DARKGITHUBPRO/Penetration-
 ```
-### Change Mode Tool :
+### 2. Check a Tool is Available :
 ```bash
-chmod +x *
+ls 
 ```
-### Check a Tool is Available :
+### 3. Change Mode Of Tool :
 ```bash
-ls && cd Penetration && ls
+chmod +x * && ls
+```
+
+### 4.  Run Tool  : 
+```bash
+python PentestPlus.py <target_url>
 ```
