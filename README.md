@@ -6,14 +6,14 @@ A tool that hacks applications perfectly and separately, with the addition of sa
 **__Developed by / Muhammad Alaa Muhammad__**
 ***
 ### Installation Tool :
-```
+```bash
 git clone https://github.com/DARKGITHUBPRO/Penetration-
 ```
 ### Change Mode Tool :
-```
+```bash
 chmod +x *
 ```
 ### Check a Tool is Available :
-```
+```bash
 ls && cd Penetration && ls
 ```
