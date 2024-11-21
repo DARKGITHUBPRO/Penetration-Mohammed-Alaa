@@ -20,5 +20,5 @@ chmod +x * && ls
 
 ### 4.  Run Tool  : 
 ```bash
-python PentestPlus.py <target_url>
+python PentestPlus.py  <target_url>
 ```
