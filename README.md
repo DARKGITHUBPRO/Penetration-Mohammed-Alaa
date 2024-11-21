@@ -23,10 +23,12 @@ chmod +x * && ls
 python PentestPlus.py  <target_url>
 ```
 ## After Finishing of Checking :
-**Write**
 ```
 ls
 ```
+##**Write##**
 ```nano scan_log_20241121_215216.txt```
+
 - or
+  
 ``` nano scan_log_20241121_215216.json```
