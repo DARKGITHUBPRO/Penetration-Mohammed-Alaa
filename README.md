@@ -53,6 +53,6 @@ chmod +x * && ls
 ```
 
 ### 4.  Run Tool  : 
-```bash
-__python Wi-Fi-DX7.py__
-```
+## ```bash
+## python Wi-Fi-DX7.py
+## ```
