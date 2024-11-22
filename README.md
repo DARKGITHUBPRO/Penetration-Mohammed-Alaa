@@ -39,3 +39,20 @@ ls
 Tool  __Wi-Fi-DX7 Tool__ Second version to know the details of available and unavailable Wi-Fi networks and crack the passwords of the networks with the possibility of downloading external files to guess the private and public passwords of the networks developed by the
 - __Programmer | Muhammad Alaa Muhammad__
 ***
+### 1. Installation Tool :
+```bash
+git clone https://github.com/DARKGITHUBPRO/Penetration-
+```
+### 2. Check a Tool is Available :
+```bash
+ls 
+```
+### 3. Change Mode Of Tool :
+```bash
+chmod +x * && ls
+```
+
+### 4.  Run Tool  : 
+```bash
+__python Wi-Fi-DX7.py__
+```
