@@ -34,5 +34,7 @@ ls
   
 ``` nano scan_log_20241121_215216.json```
 ##  # END FIRST TOOL... ###
-
+- __Wi-Fi-DX7 Tool__
+***
+Tool  __Wi-Fi-DX7 Tool__ Second version to know the details of available and unavailable Wi-Fi networks and crack the passwords of the networks with the possibility of downloading external files to guess the private and public passwords of the networks developed by the - __Programmer | Muhammad Alaa Muhammad__
 ***
