@@ -34,7 +34,8 @@ ls
   
 ``` nano scan_log_20241121_215216.json```
 #### END FIRST TOOL...
-- # _About_ _Wi-Fi-DX7 Tool_ , This Tool Run on 
+#### About Wi-Fi-DX7 Tool
+ **This Tool Run on**
 - PC 
 - Laptops 
 - or Kali Linux only 
