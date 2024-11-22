@@ -113,13 +113,13 @@ def main():
 
     while True:
         print("\33[96;1m\nAvailable Options :\33[39;0m")
-        print("\33[93;2m1. Scan nearby networks\33[39;0m")
-        print("\33[94;2m2. Retrieve WiFi password\33[39;0m")
-        print("\33[95;2m3. Load password list from a file\33[39;0m")
-        print("\33[92;2m4. Test passwords on a specific network\33[39;0m")
-        print("\33[31;1m5. Exit\33[39;0m")
+        print("\33[93;1m1. Scan nearby networks\33[39;0m")
+        print("\33[95;1m2. Retrieve WiFi password\33[39;0m")
+        print("\33[95;1m3. Load password list from a file\33[39;0m")
+        print("\33[32;1m4. Test passwords on a specific network\33[39;0m")
+        print("\33[91;1m5. Exit\33[39;0m")
 
-        choice = input("\33[8;1m\nEnter the desired option \33[39;0m: ")
+        choice = input("\33[95;1m\nEnter the desired option \33[39;0m: ")
 
         if choice == "1":
             networks = scan_wifi()
