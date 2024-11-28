@@ -58,5 +58,5 @@ chmod +x * && ls
 
 ### 4.  Run Tool  : 
  ```bash
- python Wi-Fi-DX7.py
+ python Cracking-WiFi.py
  ```
