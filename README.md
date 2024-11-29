@@ -7,7 +7,7 @@ A tool that hacks applications perfectly and separately, with the addition of sa
 ***
 ### 1. Installation Tool :
 ```bash
-git clone https://github.com/DARKGITHUBPRO/Penetration-Mohammed-Alaa
+git clone https://github.com/Mohammed-Alaa-Mohammed/Penetration-Mohammed-Alaa
 ```
 ### 2. Check a Tool is Available :
 ```bash
@@ -45,7 +45,7 @@ Tool  __Cracking-WiFi Tool__ Second version to know the details of available and
 ***
 ### 1. Installation Tool :
 ```bash
-git clone https://github.com/DARKGITHUBPRO/Penetration-Mohammed-Alaa
+git clone https://github.com/Mohammed-Alaa-Mohammed/Penetration-Mohammed-Alaa
 ```
 ### 2. Check a Tool is Available :
 ```bash
